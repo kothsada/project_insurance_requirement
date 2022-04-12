@@ -58,7 +58,7 @@ Requirement Customer Review
 # Tool Project Management Support
 - Jira Service (Agile Team Management)
 
-# ສິ່ງທີ່ຜູ້ວ່າງຈ້າງຈະຕ້ອງ ສະຫນອງ
+# ສິ່ງທີ່ຜູ້ວ່າຈ້າງຈະຕ້ອງ ສະຫນອງ
 -  Account Apple Store and Google Account Play Store
 - ເປັນຜູ້ຮັບຜິດຊອບຄ່າບໍລີການ ຂອງບັນດາ Cloud Server ທີ່ຈະພັດທະນາ
 - ສະຫນອງຂໍ່ມູນ ແລະ ຮູບພາບທີ່ຈຳເປັນ ຂອງລູກຄ້າ
