@@ -1,7 +1,7 @@
 # project_insurance_requirement
 Requirement Customer Review
 
-Project ປະກັນສຸຂະພາບ ໂຄວີດ Create by AtCode
+# Project ປະກັນສຸຂະພາບ ໂຄວີດ Create by AtCode
 
 # Client MobileApp Android & iOS
 ### Flutter Framework and Dart Programming (ນຳໃຊ້ UI ທີ່ເຄີຍອອກແບບໄວ້ແລ້ວ).
@@ -19,7 +19,7 @@ Project ປະກັນສຸຂະພາບ ໂຄວີດ Create by AtCode
   - ຈັດການຂໍ້ມູນຂອງເຈົ້າຂອງບັນຊີ
   - ສາມາດເບິ່ງຂໍ່ມູນໂຮງຫມໍ ເລືອກປະເພດໂຮງຫມໍທີ່ຕ້ອງການເບື້ອງຕົ້ນ
 
-# Dashboard and Management Web Central
+# Management WebApp (Dashboard)
 ### Angular (user Roles).
 ### Moduls Requirement: 
   - Login by UserName and Password (Session Time Out 60mns)
@@ -43,7 +43,6 @@ Project ປະກັນສຸຂະພາບ ໂຄວີດ Create by AtCode
 
 # BackEnd
 ### TypeScript and NodeJs
-
 - Tool Environment Development Support
 - No-sql MongoDB
 - Sql-Postgres
@@ -58,3 +57,17 @@ Project ປະກັນສຸຂະພາບ ໂຄວີດ Create by AtCode
 
 # Tool Project Management Support
 - Jira Service (Agile Team Management)
+
+# ສິ່ງທີ່ຜູ້ວ່າງຈ້າງຈະຕ້ອງ ສະຫນອງ
+-  Account Apple Store and Google Account Play Store
+- ເປັນຜູ້ຮັບຜິດຊອບຄ່າບໍລີການ ຂອງບັນດາ Cloud Server ທີ່ຈະພັດທະນາ
+- ສະຫນອງຂໍ່ມູນ ແລະ ຮູບພາບທີ່ຈຳເປັນ ຂອງລູກຄ້າ
+- ສະຫນອງ ເງືອນໄຂ policy ຂອງ app ແລະ ອົງກອນຂອງທາງລູກຄ້າ
+
+# ທິມພັດທະນາ ສະຫນອງ
+- ທາງ Atcode ພັດທະນາ ແມ່ນຈະໃຊ້ເວລາ ພັດທະນາ 3 ເດືອນ (ບໍລວມທົດລອງລະບົບ) ເລີ່ມຈາກມື້ທີ່ຕົກລົງກັນເຊັນສັນຍາວ່າຈ້າງ.
+- ທີມພັດທະນາ ຈະດູແລແລະຮັບປະກັນການແກ້ໄຂບັກທີ່ເກີດຂື້ນເປັນໄລຍະ 6 ເດືອນ.
+- resources ໃນການພັດທະນາ ແມ່ນຈະມອບໃຫ້ທາງຜູ້ວ່າຈ້າງເປັນເຈົ້າຂອງດູແລຕໍ່
+
+# ຫມາຍເຫດ
+- ໃນເວລາພັດທະນາ ເກີດມີການເພີ່ມ Requirement ໃຫມ່ ແມ່ນ ຈະຄິດໄລ່ຄ່າພັດທະນາເພີ່ມຂຶ້ນຕາມຄວາມເຫມາະສົມ ແລະ ຖ້າມີ Requirment ໃຫມ່ ມາເພີ່ມ ອາດເຮັດໃຫ້ເວລາທີ່ກຳນົດອາດບໍ່ໄດ້ຕາມຄາດການ.
